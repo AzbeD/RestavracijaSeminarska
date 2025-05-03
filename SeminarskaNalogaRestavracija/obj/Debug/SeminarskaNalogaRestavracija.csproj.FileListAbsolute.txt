@@ -1,0 +1,36 @@
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.exe.config
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.exe
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.pdb
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.AssemblyReference.cache
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.Form1.resources
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.Properties.Resources.resources
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.GenerateResource.cache
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.CoreCompileInputs.cache
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.exe
+C:\Šola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.pdb
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\bin\Debug\SeminarskaNalogaRestavracija.exe.config
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\bin\Debug\SeminarskaNalogaRestavracija.exe
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\bin\Debug\SeminarskaNalogaRestavracija.pdb
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.csproj.AssemblyReference.cache
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.Form1.resources
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.Properties.Resources.resources
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.csproj.GenerateResource.cache
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.csproj.CoreCompileInputs.cache
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.exe
+D:\ŠOLA\SREDNJA ŠOLA\SeminarskaRestavracija\RestavracijaSeminarska\obj\Debug\SeminarskaNalogaRestavracija.pdb
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.exe.config
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.exe
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\SeminarskaNalogaRestavracija.pdb
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.AssemblyReference.cache
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.Properties.Resources.resources
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.GenerateResource.cache
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.csproj.CoreCompileInputs.cache
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.exe
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.pdb
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.FormLogin.resources
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.FormLoginZaposleni.resources
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.FormMainStranka.resources
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\SeminarskaNalogaRestavracija.FormMainZaposleni.resources
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\RestavracijaClasses.dll
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\bin\Debug\RestavracijaClasses.pdb
+C:\Sola\SMV\SeminarskaNaloga\SeminarskaNalogaRestavracija\obj\Debug\Seminars.65560B53.Up2Date

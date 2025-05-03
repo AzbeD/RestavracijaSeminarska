@@ -1,0 +1,6 @@
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\bin\Debug\RestavracijaClasses.dll
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\bin\Debug\RestavracijaClasses.pdb
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\obj\Debug\RestavracijaClasses.csproj.AssemblyReference.cache
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\obj\Debug\RestavracijaClasses.csproj.CoreCompileInputs.cache
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\obj\Debug\RestavracijaClasses.dll
+C:\Sola\SMV\SeminarskaNaloga\RestavracijaClasses\obj\Debug\RestavracijaClasses.pdb
